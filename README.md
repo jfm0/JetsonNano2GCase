@@ -1,7 +1,7 @@
 # JetsonNano2GCase
 Author: Jason McCarty
 
-Case Base for Jetson Nano *2G* !
+Case Base for Jetson Nano ***2G*** !
 
 For 3D printing case for Jetson Nano 2G version.
 
